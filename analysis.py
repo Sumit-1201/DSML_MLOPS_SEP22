@@ -4,5 +4,6 @@ def clean(df):
 def process(df):
     return df
 
-def func_by_a(df):
-    print("Hi hello")
+def func_by_b(df):
+    print("Bye bye")
+    print("thik hai naa")
